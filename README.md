@@ -1,4 +1,4 @@
-#Python Projects: Guess theNumber & URL shortner 
+#Python Projects: Code-with python contains two projects are Guess theNumber & URL shortner 
 This repository contains two simple pythonn projects for @codeclause for python developer internship purpose:
 **Guess the Nuber:** A classic number guessing  game.
 **URL shortener:** A basic service to shorten long URLs.
