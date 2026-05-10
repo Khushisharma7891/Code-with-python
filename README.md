@@ -1,12 +1,75 @@
-#Python Projects: Code-with python contains two projects are Guess theNumber & URL shortner 
-This repository contains two simple pythonn projects for @codeclause for python developer internship purpose:
-**Guess the Nuber:** A classic number guessing  game.
-**URL shortener:** A basic service to shorten long URLs.
-#Project 1: Guess the Number
-###Description
-This project is a simple number guessing game.The computer generates random number, and the user tries toguess it.The program provides feedback to the usr, indicating whether their guess is too high and too low.
+<h1 align="center">Code With Python</h1>
 
+<p align="center">
+  A collection of beginner-friendly Python projects built while learning and improving problem-solving skills.
+</p>
 
-##Project 2: URL Shortener
-###Description
-This project is a basic URL shortening service. It taks a long URL as input and generates a short, unique URL.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Beginner%20Projects-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-4CAF50?style=for-the-badge"/>
+</p>
+
+---
+
+## About This Repository
+
+This repository contains Python projects that I created to improve my programming skills and understand real-world logic building.
+
+Each project helped me practice concepts like:
+- Problem Solving
+- Logic Building
+- User Input Handling
+- Python Fundamentals
+- Practical Programming
+
+---
+
+# Projects
+
+## Guess The Number Game
+
+A fun Python game where the computer randomly selects a number and the player has to guess it correctly.
+
+### Features
+✔ Random Number Generation  
+✔ User Interaction  
+✔ Hint System (Higher / Lower)  
+✔ Beginner Friendly Logic  
+
+### Tech Used
+`Python`
+
+---
+
+## URL Shortener
+
+A simple Python project that converts long URLs into short and manageable links.
+
+### Features
+✔ Shortens Long URLs  
+✔ Clean & Simple Functionality  
+✔ Beginner-Friendly Project  
+
+### Tech Used
+`Python`
+
+---
+
+## Technologies Used
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,git" />
+</p>
+
+---
+
+## Learning Journey
+
+I am continuously learning and building projects to improve my development skills. More projects will be added over time.
+
+---
+
+## Support
+
+If you found these projects helpful or interesting, feel free to star this repository.
